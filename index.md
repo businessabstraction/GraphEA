@@ -1,8 +1,27 @@
-## Welcome to GraphEA!
+# Welcome to GraphEA!
 GraphEA is the new approach to Enterprise Architecture, which is:
 - Data-Centric, for a Data-Driven Enterprise
 - Highly scalable, with queries and navigation enabled
-- Quantitative if needed
+- Easy to integrate with any metadata, performance data etc
+- Represented and stored as a Knowledge Graph
+- Verifyable and quantitative if needed
+- Fully open source!
+
+# GraphEA is fully open source
+GraphEA is and always be open source. While there are commercial services, you are free to learn and implement it without paying a dime to anyone. 
+The code is "copylefted" under the GNU GPL 3. 
+The ontologies and documentation are available under Creative Commons Attribution-NoDerivatives 4.0 International. If you believe changes should be added, commit them for consideration
+
+
+# Get involved
+- If you have your own ideas, contribute code and documentation
+- Not every Enterprise Architect is comfortable with Git. Become a member of our support team, and help such Archtiects contribute their suggestions. 
+- Translate the documentation to other languages
+
+
+## Meaning of the name 
+GraphEA stands for Graph Enterprise Architecture. However, "graphea" is a type of moth
+
 
 You can use the [editor on GitHub](https://github.com/businessabstraction/graphea/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
