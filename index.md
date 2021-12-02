@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to GraphEA!
+GraphEA is the new approach to Enterprise Architecture, which is:
+- Data-Centric, for a Data-Driven Enterprise
+- Highly scalable, with queries and navigation enabled
+- Quantitative if needed
 
 You can use the [editor on GitHub](https://github.com/businessabstraction/graphea/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
