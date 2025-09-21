@@ -1,1 +1,15 @@
-theme: jekyll-theme-modernist
+title: GraphEA
+description: Enterprise architecture in a graph—model-as-data, queries over pictures.
+remote_theme: just-the-docs/just-the-docs
+logo: /assets/logo.png
+search_enabled: true
+color_scheme: light
+nav_external_links:
+  - title: GitHub
+    url: https://github.com/<YOUR-USER>/graphea
+aux_links:
+  "Download the Starter Kit":
+    - /downloads
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
